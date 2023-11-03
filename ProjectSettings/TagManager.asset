@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: warp
+    uniqueID: 2206671871
+    locked: 0
+  - name: clouds
+    uniqueID: 1643068415
+    locked: 0
+  - name: bg land
+    uniqueID: 3679082009
+    locked: 0
+  - name: 'tees and rocks '
+    uniqueID: 2897179317
+    locked: 0
+  - name: ladder
+    uniqueID: 2018581529
+    locked: 0
+  - name: fence
+    uniqueID: 3121694329
+    locked: 0
+  - name: ground
+    uniqueID: 1421371401
+    locked: 0
+  - name: walkable path
+    uniqueID: 4138979511
+    locked: 0
+  - name: bg23
+    uniqueID: 1827553191
+    locked: 0
+  - name: bg05
+    uniqueID: 4104912511
+    locked: 0
+  - name: bbg04
+    uniqueID: 2958262683
+    locked: 0
+  - name: bg03
+    uniqueID: 2905795377
+    locked: 0
+  - name: background02
+    uniqueID: 3899010085
+    locked: 0
+  - name: background01
+    uniqueID: 1839626471
+    locked: 0
+  - name: BUILDING2
+    uniqueID: 4138166423
+    locked: 0
+  - name: future terrain
+    uniqueID: 4205082073
+    locked: 0
+  - name: player
+    uniqueID: 1696747423
+    locked: 0
+  - name: buuilding
+    uniqueID: 3362816039
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
